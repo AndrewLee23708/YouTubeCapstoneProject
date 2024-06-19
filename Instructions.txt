@@ -1,0 +1,27 @@
+### How to use YouTube Data API v3 to fetch data: 
+
+Go to Google Cloud Console:
+
+Create a New Project:
+
+Enable YouTube Data API
+- In the left-hand sidebar, click on "APIs & Services" > "Library".
+- In the search bar at the top, search "YouTube Data API v3".
+- Click on "YouTube Data API v3" from the search results.
+- Click the "Enable" button.
+
+Create API Credentials
+After enabling the API, you should be redirected to the "API & Services Dashboard".
+Click on "Create Credentials" at the top of the page.
+Select "API Key" from the dropdown menu.
+Your API key will be created and displayed. Copy this key; you will need it for your code.
+
+My key:
+AIzaSyBg_bTSyo-ibJzHTRqkqmkM34DuXrJDiPE
+
+
+Reference links:
+https://medium.com/data-science-graduate/analyzing-100-mrbeast-thumbnails-using-data-science-70e701cba41c
+https://thetaklo.medium.com/creating-engaging-thumbnails-my-lessons-from-analyzing-100-mrbeast-thumbnails-ca63f667e440
+https://georgepaskalev.medium.com/can-you-predict-a-youtube-videos-ctr-using-machine-learning-bc20bb142a47
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10173777
